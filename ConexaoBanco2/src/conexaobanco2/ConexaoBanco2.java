@@ -11,6 +11,7 @@ public class ConexaoBanco2
     {
         System.out.println("Hello pessoas");
         JOptionPane.showMessageDialog(null,"Agua mole em pedra dura, quem avisa amigo é");
+        System.out.println("Vrauu");
         
     }
     
